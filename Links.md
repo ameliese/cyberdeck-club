@@ -20,6 +20,8 @@ https://randomnerdtutorials.com/esp32-esp8266-pwm-micropython/
 
 https://randomnerdtutorials.com/micropython-oled-display-esp32-esp8266/
 
+https://randomnerdtutorials.com/esp32-esp8266-micropython-web-server/
+
 ## Soldering
 https://learn.adafruit.com/adafruit-guide-excellent-soldering
 
