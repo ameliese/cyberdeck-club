@@ -26,7 +26,7 @@ ROWS = H // LINE_H         # Zeilen pro Bildschirm, ergibt sich aus der Schrifth
 TEXT_W = 123               # nutzbare Breite in Pixeln (rechts bleibt Platz fuer den Scrollbalken)
 
 # --- Einstellungen ---
-TEXT_FILE = "luddites.txt"   # Textdatei auf dem ESP32 (UTF-8)
+TEXT_FILE = "dein-text.txt"   # Textdatei auf dem ESP32 (UTF-8)
 REPEAT_DELAY_MS = 300    # so lange gedrueckt halten, bis Dauer-Scrollen startet
 REPEAT_STEP_MS = 80      # Abstand zwischen Zeilen beim Dauer-Scrollen
 
