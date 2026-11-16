@@ -62,7 +62,7 @@ ROWS = H // LINE_H         # Zeilen pro Bildschirm, ergibt sich aus der Schrifth
 TEXT_W = 123               # nutzbare Breite in Pixeln (rechts bleibt Platz fuer den Scrollbalken)
 
 # --- Einstellungen ---
-TEXT_FILE = "luddites.txt"   # Textdatei auf dem ESP32 (UTF-8)
+TEXT_FILE = "dein-text.txt"   # Textdatei auf dem ESP32 (UTF-8)
 
 FALLBACK_TEXT = (
     "Keine text.txt auf dem ESP32 gefunden.\n\n"
