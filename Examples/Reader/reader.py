@@ -13,7 +13,7 @@ btn_up = Pin(4, Pin.IN, Pin.PULL_UP)     # scrollt nach oben (zurueck)
 btn_down = Pin(5, Pin.IN, Pin.PULL_UP)   # scrollt nach unten (weiter)
 
 # --- Einstellungen ---
-TEXT_FILE = "luddites.txt"   # Textdatei auf dem ESP32 (UTF-8)
+TEXT_FILE = "dein-text.txt"   # Textdatei auf dem ESP32 (UTF-8)
 CHARS = 15               # Zeichen pro Zeile (8px-Schrift; rechts bleibt Platz fuer Scrollbalken)
 ROWS = 7                 # Zeilen pro Bildschirm (64px / 8px)
 REPEAT_DELAY_MS = 300    # so lange gedrueckt halten, bis Dauer-Scrollen startet
