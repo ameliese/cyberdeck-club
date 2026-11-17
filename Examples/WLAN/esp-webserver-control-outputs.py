@@ -16,8 +16,8 @@ import gc
 gc.collect()
 
 # gleiches Netz wie Laptop/Smartphone, kein Gastzugang, ggfs. 5-Ghz-Band deaktivieren
-ssid = 'Nochschoenerwohnen' 
-password = 'zubpyx-sicRov-funve5'
+ssid = 'ESP32' 
+password = '35P32#kw'
 
 station = network.WLAN(network.STA_IF)
 
