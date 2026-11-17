@@ -1,6 +1,6 @@
-Für einen Konsultationstermin bitte [hier](https://drive.proton.me/urls/3ZH3T53DJM#2zonVR1fIZ7S) eintragen
-
 de
+
+Für einen Konsultationstermin bitte [hier](https://drive.proton.me/urls/3ZH3T53DJM#2zonVR1fIZ7S) eintragen
 
 - 1–3 Ideen/Entwürfe
 - Was macht das Cyberdeck?
@@ -15,6 +15,8 @@ de
 - Wir können nur über das reden, was wir sehen können / was ihr zeigen könnt. Bringt Zeichnungen, Moodboards, Mock-ups, Code, Materialproben etc.
 
 en
+
+Pick a slot for consultation [here](https://drive.proton.me/urls/3ZH3T53DJM#2zonVR1fIZ7S).
 
 - 1–3 Ideas/Concepts
 - What does the Cyberdeck do?
